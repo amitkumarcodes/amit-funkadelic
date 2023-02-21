@@ -1,10 +1,24 @@
-- 👋 Hi, I’m Amit K @amit-funkadelic
-- 👀 I’m interested in data
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on ...
+# Hi there, I'm Amit K - aka amitkumarcodes 👋
+
+## About Me
+- 👀 I’m interested in coding, problem-solving, and learning.
+- 🌱 I’m currently enrolled in a Java full stack developer BootCamp.
+- 💞️ I’m open to collaborations on projects related to Java full stack development and more.
 - 📫 How to reach me? - amitshah99m@gmail.com
 
-<!---
-amit-funkadelic/amit-funkadelic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+- Java
+- Python
+- SQL
+- Data Analysis
+- R
+
+## Recent Projects
+- [Project 1](https://github.com/amitkumarcodes/SimpliLearn_Project1)
+
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/amit-kumar-shah/)
+- [Email](amitshah99m@gmail.com)
+
+#### Feel free to contact me to discuss potential collaborations related to Java full stack development, automation, or any other interesting projects you may have in mind. I'm always eager to learn and contribute to new projects, so don't hesitate to reach out!
