@@ -18,7 +18,7 @@
 
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/amit-kumar-shah/)
+- [LinkedIn](https://www.linkedin.com/in/amit314)
 - [Email](amitshah99m@gmail.com)
 
 #### Feel free to contact me to discuss potential collaborations related to Java full stack development, automation, or any other interesting projects you may have in mind. I'm always eager to learn and contribute to new projects, so don't hesitate to reach out!
